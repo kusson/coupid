@@ -27,7 +27,7 @@ function BottomLinks() {
                     <li>
                         COMPANY
                         <p>Careers</p>
-                        <p>About Us</p>
+                        <a href="/aboutus">About Us</a>
                         <p>Legal and Privacy</p>
                     </li>
                     <li>

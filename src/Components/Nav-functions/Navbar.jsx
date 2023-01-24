@@ -20,7 +20,7 @@ function Navbar() {
         <nav className="navbar">
        
             <div className="coupidLogo" alt="coupidlogo">
-                <a href="/">
+                <a href="/index">
                     <img src={logo}/>
                 </a>
             </div>
