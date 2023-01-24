@@ -1,7 +1,7 @@
 {
   "name": "coupid",
   "version": "0.1.0",
-  "homepage": "https://kusson.github.io/coupid/index",
+  "homepage": "https://kusson.github.io/coupid/#",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
