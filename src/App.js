@@ -9,12 +9,12 @@ import Aboutus from "./Components/Pages/aboutus";
 import Signin from "./Components/Pages/signin";
 
 
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 function App() {
     return(
         <div className="content-container">
-          <Router>
+          <HashRouter>
               <Navbar />
               <Routes>
                   <Route path="/index" element={<Home />} />
@@ -25,7 +25,7 @@ function App() {
               </Routes>
               <BottomLinks />
               <Footer />
-          </Router>
+          </HashRouter>
         </div>
     )
 };
