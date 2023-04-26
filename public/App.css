@@ -47,14 +47,8 @@
 .nav-list a{
   text-decoration: none;
   color: black;
-  transition-duration: 0.4s;
 }
 
-.nav-list a:hover{
-  background-color: #F7BF4F;
-  padding: 1rem;
-  border-radius: 2rem;;
-}
 
 .burgerMenu {
   display: none;
