@@ -1,31 +1,35 @@
 const partnership_Content = [
     
     {
-        id: 1,
-        title: "1. Wrap your product as digital gifts by listing it on Coupid",
-        text: "List your products, manage and confirm orders on Coupid's admin panel.",
-        img: "https://floweraura-blog-img.s3.ap-south-1.amazonaws.com/digi+gifts/cover.jpg",
+        id: "hcw1",
+        title: "1. Wrap your product as an eGift by listing it on Coupid",
+        text: "Sell your products on Coupid as eGifts, either for in-store use or delivery. Customers can easily purchase your products as eGifts.",
+        text2: "",
+        img: "/Images/part_img2.svg",
         button: "none",
         buttoncontent: "none",
         buttonlink: "none",
     },
-
+    
     {
-        id: 2,
-        title: "2. Gift senders browse, purchase and send gifts to the reciever",
-        text: "Gift senders choose the gift they want to send, like a tub of ice cream, or a box of dozen donuts!",
-        img: "https://floweraura-blog-img.s3.ap-south-1.amazonaws.com/digi+gifts/post-4.jpg",
+        id: "hcw2",
+        title: "2. Effortlessly monitor your stock, orders, and redemption status via the Coupid Dashboard.",
+        text: "Keep track of your listed eGifts, stock levels, and order statuses all in one place with the Coupid Dashboard.",
+        text2: "Action the orders received.",
+        text3: "For the delivered gift, ship out the order. For the In-store gift, redeem the eGift in store.",
+        img: "/Images/part_img3.svg",
         button: "none",
-        buttoncontent: "none",
-        buttonlink: "none",
+        buttoncontent: "",
+        buttonlink: "",
     },
 
     {
-        id: 3,
-        title: "3. Gift receiver chooses what they want",
-        text: "The receiver chooses the details such as delivery address, delivery time frame, flavours or colours they like!",
-        img: "https://www.buzinga.com.au/wp-content/uploads/2016/09/checkout-overview.jpg",
-        button: "inline-block",
+        id: "hcw3",
+        title: "3. Grow online, meet new customers and increase sales! ",
+        text: "Expand your reach and meet new customers online by joining Coupid's network effect. Gift senders introduce your brand and products to the gift receivers, doubling the exposure of your products.",
+        text2: "",
+        img: "/Images/home_img7.svg",
+        button: "none",
         buttoncontent: "Get Started",
         buttonlink: "none",
     }

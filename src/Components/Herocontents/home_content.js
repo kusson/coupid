@@ -1,28 +1,86 @@
 const home_Content = [
 
-{
-    id: 1,
-    title: "The easiest way to show that you care",
-    text: "Send gifts just like you are sending a message.",
-    img: "https://live-production.wcms.abc-cdn.net.au/4e28237b58d7c743fa3603ec121cf32c?impolicy=wcms_crop_resize&cropH=1689&cropW=3000&xPos=0&yPos=171&width=862&height=485",
-    button: "none",
-},
+    {
+        id: "homeTitle",
+        summary: "",
+        title: "Do you need to send a small gift instantly but not sure what the address is or when they’ll be home? – Coupid has got you covered",
+        text: "Send your favourite desserts and drinks as an eGift with a message, without needing the recipient's delivery address, email, or preferences. Coupid makes gifting easy!",
+        text2: "",
+        img: "/Images/home_img1.svg",
+        button: "inline-block",
+        buttoncontent: "Get the App",
+        buttonlink: "#",
+    },
 
-{
-    id: 2,
-    title: "It's okay even if you don't know the receiver's preference",
-    text: "The reciever will get to choose the specifics of the gift, including the delivery address if your gift is to be delivered.",
-    img: "https://www.usan.com/wp-content/uploads/2013/05/customer-experience-preferences.jpg",
-    button: "none",
-},
+    {
+        id: "step1",
+        summary: "STEP ONE",
+        title: "Download the Coupid App",
+        text: "",
+        text2: "",
+        img: "/Images/home_img2.svg",
+        button: "none",
+        buttoncontent: "",
+        buttonlink: "",
+    },
 
-{
-    id: 3,
-    title: "Not too sure if the receiver will like the gift?",
-    text: "Don't worry. The receiver can return the gift into Coupid credit and get anything they want on our Coupid App.",
-    img: "https://images.pexels.com/photos/1036620/pexels-photo-1036620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    button: "none",
-},
+    {
+        id: "step2",
+        summary: "STEP TWO",
+        title: "Choose how you want to gift - Delivered to their door or redeem In-store!",
+        text: "",
+        text2: "",
+        text3: "",
+        img: "/Images/home_img3.svg",
+        button: "none",
+    },
+
+    {
+        id: "step3",
+        summary: "STEP THREE",
+        title: "Share the eGift with your loved ones through your preferred communication channel!",
+        text: "",
+        text2: "",
+        text3: "",
+        img: "/Images/home_img4.svg",
+        button: "none",
+    },
+
+    {
+        id: "delivered",
+        summary: "DELIEVERED GIFT",
+        title: "",
+        text: "Sending desserts and drinks as gifts can be difficult when you don't know the recipient's delivery address, preferences, and availability.",
+        text2: "But with an eGift, the recipient can choose their favourite flavour and initiate the delivery when they are available to receive.",
+        text3: "No more desserts sitting at the doorstep!",
+        img: "/Images/home_img5.svg",
+        button: "none",
+        buttoncontent: "",
+        buttonlink: "",
+    },
+
+    {
+        id: "instore",
+        summary: "IN-STORE GIFT",
+        title: "",
+        text: "Send your favourite desserts and drinks as eGifts.",
+        text2: "Your recipient can redeem the coupon at their convenience and choose their preferred flavour in-store.",
+        img: "/Images/home_img6.svg",
+        button: "none",
+    },
+
+    {
+        id: "home_bottom",
+        summary: "",
+        title: "Wrap your products into eGfits",
+        text: "",
+        text2: "",
+        text3: "",
+        img: "/Images/home_img7.svg",
+        button: "inline-block",
+        buttoncontent: "Become a partner",
+        buttonlink: "/partnership",
+    },
 
 ]
 

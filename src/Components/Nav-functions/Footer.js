@@ -5,6 +5,8 @@ function Footer() {
     return(
         
         <footer>
+            <img alt="coupid" src="../Images/Logo.png" />
+            <img alt="applogo" src="../Images/AppLogo.png" className="hiddenAppLogo"/>
             <p>Copyright ⓒ {year}</p>
         </footer>
         

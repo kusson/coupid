@@ -12,6 +12,8 @@
 /build
 
 # misc
+.server/.env
+.env
 .DS_Store
 .env.local
 .env.development.local
@@ -21,3 +23,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+#files
+.utilities/index.js
+.utilities/db.js
+.utilities/process-form.php

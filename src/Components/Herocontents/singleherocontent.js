@@ -1,23 +1,28 @@
 let singleHeroContent = [
-    {
-        id: "homeTitle",
-        title: "Send gifts instantly like a message. Let the receiver choose the details.",
-        text: "Send gifts digitally as part of your messages. Leave the details for the gift receiver and let them choose the specifics and when to recieve the gift.",
-        img: "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2luc3RhbnQtbWVzc2FnaW5nLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODI4fSwidG9Gb3JtYXQiOiJhdmlmIn19",
-        button: "inline-block",
-        buttoncontent: "Get the App",
-        buttonlink: "#",
-    },
 
     {
         id: "homeBottom",
-        title: "Turn your products into digital gifts",
-        text: "Partner with COupid to create a new sales channel and reach new customers. Grow online. Present your products as digital gifts and grow your business.",
-        img: "https://insideretail.asia/wp-content/uploads/2020/09/Digital-and-physical-shop.png",
+        summary : "",
+        title: "Turn your products into eGifts",
+        text: "Partner with Coupid to create a new sales channel and reach new customers.",
+        text2: "Grow online. Present your products as digital gifts and grow your business.",
+        img: "/Images/home_img5.svg",
+        alt: "",
         button: "inline-block",
         buttoncontent: "Become a partner",
-        buttonlink: "#"
-    }
+        buttonlink: "/partnership"
+    },
+
+    {
+        id: "partnertop",
+        title: "Why eGifts",
+        text: "In the digital age, e-gifting is the new norm. With 95% of Australians communicating online and over 80% shopping digitally, the eGifts platform offers a new sales channel to reach and grow your customer base.",
+        text2: "",
+        img: "/Images/part_img1.svg",
+        button: "none",
+        buttoncontent: "none",
+        buttonlink: "none",
+    },
 
 ]
 
