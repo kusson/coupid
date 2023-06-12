@@ -20,7 +20,7 @@ function BottomLinks() {
                     
                     <li>
                         MERCHANTS
-                        <a href="/tandc">Terms and Conditions</a>
+                        {/* <a href="/tandc">Terms and Conditions</a> */}
                         {/* <a href="/tutorial">Tutorial</a> */}
                     </li>
                     {/* <li>
@@ -30,7 +30,7 @@ function BottomLinks() {
                         COMPANY
                         {/* <a href="/careers">Careers</a> */}
                         <a href="/aboutus">About Us</a>
-                        <a href="/legalandprivacy">Legal and Privacy</a>
+                        {/* <a href="/legalandprivacy">Legal and Privacy</a> */}
                     </li>
 
                     <li className="socials">
